@@ -1,0 +1,105 @@
+    <section id="popular-courses" class="courses">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-title">
+          
+          <p style="text-align:center">Popular Courses</p>
+        </div>
+
+        <div class="row" data-aos="zoom-in" data-aos-delay="100">
+
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+            <div class="course-item">
+              <img src="<?= base_url();?>assets2/assets/img/Picture6.png" class="img-fluid" alt="...">
+              <div class="course-content">
+                <div class="d-flex justify-content-between align-items-center mb-3">
+                  <h4>Unarmed Security Guard</h4>
+                  <p class="price">Rs. 3,000/-</p>
+                </div>
+
+                <h3><a href="course-details.html">Unarmed Security Guard</a></h3>
+                <p>This program is aimed at training candidates for the job of a “Unarmed Security Guard”, in the “Management & Entrepreneurship and Professional Skills” Sector/Industry and aims at building the following key competencies amongst the learner.</p>
+                    <a href="<?php echo base_url();?>index.php/mycontroller/coursecheckout/" ><button type="button" style="background-color: #4169E1; color: white; border-color: white; ">ENROLL NOW</button></a>
+
+              </div>
+            </div>
+          </div> <!-- End Course Item-->
+
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0">
+            <div class="course-item">
+              <img src="<?= base_url();?>assets2/assets/img/Picture5.jpg" class="img-fluid" alt="...">
+              <div class="course-content">
+                <div class="d-flex justify-content-between align-items-center mb-3">
+                  <h4>Security Supervisor</h4>
+                  <p class="price">Rs. 6,000/-</p>
+                </div>
+
+                <h3><a href="course-details.html">Security Supervisor</a></h3>
+                <p>This program is aimed at training candidates for the job of a “Security Supervisor”, in the “Management & Entrepreneurship and Professional Skills” Sector/Industry and aims at building the following key competencies amongst the learner.
+                </p>
+                <a href="<?php echo base_url();?>index.php/mycontroller/coursecheckout/" ><button type="button" style="background-color: #4169E1; color: white; border-color: white; ">ENROLL NOW</button></a>
+              </div>
+            </div>
+          </div> <!-- End Course Item-->
+
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0">
+            <div class="course-item">
+              <img src="<?= base_url();?>assets2/assets/img/Picture4.png" class="img-fluid" alt="...">
+              <div class="course-content">
+                <div class="d-flex justify-content-between align-items-center mb-3">
+                  <h4>Field Officer</h4>
+                  <p class="price">Rs. 6,000/-</p>
+                </div>
+
+                <h3><a href="course-details.html">Field Officer</a></h3>
+                <p>This program is aimed at training candidates for the job of a “Field Officer” in the private security industry/Sector and aims at building the key competencies amongst the learner.
+                </p><br><br>
+                <a href="<?php echo base_url();?>index.php/mycontroller/coursecheckout/" ><button type="button" style="background-color: #4169E1; color: white; border-color: white; ">ENROLL NOW</button></a>
+              </div>
+            </div>
+          </div> <!-- End Course Item-->
+
+        </div>
+
+      </div>
+    </section>
+	
+	
+	
+	
+	
+	echo "Join URL: ". $data->join_url;
+        echo "<br>";
+        echo "Meeting Password: ". $data->password;
+ 
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	   <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+            <div class="course-item">
+              <img src="<?= base_url();?>assets2/assets/img/<?php echo $row->thumbnail;?>" class="img-fluid" alt="...">
+              <div class="course-content">
+                <div class="d-flex justify-content-between align-items-center mb-3">
+                  <h4><?php echo $row->course_name;?></h4>
+                  <p class="price"><?php echo $row->course_price;?></p>
+                </div>
+
+                <h3><a href="course-details.html"><?php echo $row->course_name;?></a></h3>
+                <p><?php echo $row->description;?></p>
+                    <a href="<?php echo base_url();?>index.php/mycontroller/coursecheckout/<?php echo $row->course_id; ?>" ><button type="button" style="background-color: #4169E1; color: white; border-color: white; ">ENROLL NOW</button></a>
+
+              </div>
+            </div>
+          </div>

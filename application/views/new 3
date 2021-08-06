@@ -1,0 +1,910 @@
+<div id="portfolio" class="offset">
+
+
+<div class="row no-padding">
+
+	<div class="col-sm-4">
+		  <div class="card">
+    
+    <div class="card-body text-dark bg-light  mb-3">
+	 <img class="card-img-top" src="<?php echo base_url();?>assets/img/work1.jpg" alt="Card image cap">
+      
+     
+    </div>
+  </div>
+	</div>
+
+<div class="col-sm-4">
+	 <div class="card">
+    
+    <div class="card-body text-dark bg-light  mb-3">
+	 <img class="card-img-top" src="<?php echo base_url();?>assets/img/study.jpg" alt="Card image cap">
+      
+     
+    </div>
+  </div>	
+	</div>
+	<div class="col-sm-4">
+		  <div class="card">
+    
+    <div class="card-body text-dark bg-light  mb-3">
+	 <img class="card-img-top" src="<?php echo base_url();?>assets/img/business.jpeg" alt="Card image cap">
+      
+     
+    </div>
+  </div>
+	</div>
+
+
+   
+</div>
+
+
+
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="card-img-overlay text-center">
+    <h4 class="card-title font-weight-bold" >WORK</h4>
+	
+	 <p class="card-text" >SkillX For Professionals</p>
+     
+    <a href="#" class="btn btn-outline-primary">work with us</a>
+  </div>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <link href="https://fonts.googleapis.com/css2?family=Flamenco&display=swap" rel="stylesheet">
+  
+  
+  
+  
+  
+  
+  
+  
+<div id="portfolio" class="offset">
+
+
+<div class="row no-padding">
+
+	<div class="col-sm-4">
+		  <div class="card">
+    
+    <div class="card-body text-dark bg-light  mb-3">
+	 <img class="card-img-top" src="<?php echo base_url();?>assets/img/work1.jpg" alt="Card image cap" style="filter: blur(1px);">
+      <div class="card-img-overlay text-center">
+    <h1 class="card-title font-weight-bold" style=" background-color: #708090;
+  color: #F0FFFF;
+  padding-left: 20px;
+  padding-right: 20px; font-family: 'Flamenco', cursive;">SKILLX WORK</h1>
+	
+	
+     
+    <a href="#" class="btn btn-primary btn-lg" style="margin-top: 150px;">work with us</a>
+  </div>
+     
+    </div>
+  </div>
+	</div>
+
+<div class="col-sm-4">
+	 <div class="card">
+    
+    <div class="card-body text-dark bg-light  mb-3">
+	 <img class="card-img-top" src="<?php echo base_url();?>assets/img/study.jpg" alt="Card image cap" style="filter: blur(1px);">
+        <div class="card-img-overlay text-center">
+    <h1 class="card-title font-weight-bold" style=" background-color: #708090;
+  color: #F0FFFF;
+  padding-left: 20px;
+  padding-right: 20px; font-family: 'Flamenco', cursive;">SKILLX STUDY</h1>
+	
+	 
+     
+    <a href="<?php echo base_url();?>index.php/Home/study" class="btn btn-primary btn-lg" style="margin-top: 150px;">Explore opportunities</a>
+  </div>
+     
+    </div>
+  </div>	
+	</div>
+	<div class="col-sm-4">
+		  <div class="card">
+    
+    <div class="card-body text-dark bg-light  mb-3">
+	 <img class="card-img-top" src="<?php echo base_url();?>assets/img/business.jpeg" alt="Card image cap" style="filter: blur(1px);">
+       <div class="card-img-overlay text-center">
+    <h1 class="card-title font-weight-bold" style=" background-color: #708090;
+  color: #F0FFFF;
+  padding-left: 20px;
+  padding-right: 20px; font-family: 'Flamenco', cursive;">SKILLX EARN</h1>
+	
+	
+     
+    <a href="#" class="btn btn-primary btn-lg" style="margin-top: 150px;">View Jobs</a>
+  </div>
+     
+    </div>
+  </div>
+	</div>
+
+
+   
+</div>
+
+
+
+
+
+
+</div>
+
+
+
+<p class="lead text-center">SkillX.live	is	dedicated	to	connecting	passionate,	innovative	professionals	with	new	
+opportunities	in	their	chosen	professional	domain	and	employment	industry.	Through	
+numerous	partnerships	of	the	industry’s	leaders	and	associations,	SkillX.live	brings	
+awareness	to	the	career	advancement	opportunities	within	the	fast-paced	industry	and	
+employment	environment	that	serves	to	benefit	skill	learners	to	upgrade	their	talent	and	
+earn	credit	points,	for	the	industry	to	source	the	best	talents	available	on	SkillX.live	
+platform	and	for	the	educators	and	skill	providers	to	reach	out	to	an	enormous	pool	of	
+eager	learners	and	offer	the	best	education,	training,	skilling	and	development	programs	
+available.		</p>
+
+
+
+<i class="ri-store-line" style="color: #ffbb2c;"></i>
+
+
+
+<i class="ri-bar-chart-box-line" style="color: #5578ff;"></i>
+
+
+<i class="ri-calendar-todo-line" style="color: #e80368;"></i>
+
+
+ <i class="ri-paint-brush-line" style="color: #e361ff;"></i>
+
+
+
+<input type="text" Placeholder="search" style="" ></span>
+
+
+
+
+
+   <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+            <div class="portfolio-wrap">
+              <img src="<?php echo base_url();?>assets/img/portfolio/portfolio9.jpg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>Healthcare, Medical</h4>
+               
+                <div class="portfolio-links">
+                  <a href="<?php echo base_url();?>assets/img/portfolio/portfolio-9.jpg" data-gall="portfolioGallery" class="venobox" title="Web 3"><i class="bx bx-plus"></i></a>
+                  <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+
+
+
+
+
+
+
+
+
+
+	<section id="hero" class="d-flex align-items-center  ">
+<div class="video-background ">
+<div class="video-wrap ">
+<div id="video">
+<video id="bgvid" autoplay loop muted playsinline>
+<source src="<?php echo base_url();?>assets/video/newvid.mp4" type="video/mp4">
+
+
+</video>
+</div>
+</div>
+</div>
+</section>
+
+
+
+ <div class="container-fluid px-0 py-5 bg-black" style="background-color: #F8F8FF;">
+      	<div class="container">
+      		<div class="row">
+	          <div class="col-md-12">
+		
+	            <p class="mb-0" style="color: #000000;"><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+	  Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved |   by <a href="https://tridentdigitech.com" target="_blank" style="color: #000000;">Trident Digitech</a>
+	  <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
+	          </div>
+	        </div>
+      	</div>
+      </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <section class="ftco-section">
+      <div class="container">
+        <div class="row justify-content-center mb-5">
+          <div class="col-md-7 heading-section text-center ftco-animate">
+          	<span class="subheading">Blog</span>
+            <h2>Recent Blog</h2>
+          </div>
+        </div>
+        <div class="row d-flex">
+          <div class="col-md-4 d-flex ftco-animate">
+          	<div class="blog-entry justify-content-end">
+              <div class="text text-center">
+              	<a href="blog-single.html" class="block-20 img" style="background-image: url('<?php echo base_url(); ?>assets/img/image_1.jpg');">
+	              </a>
+	              <div class="meta text-center mb-2 d-flex align-items-center justify-content-center">
+                	<div>
+                		<span class="day">02</span>
+                		<span class="mos">May</span>
+                		<span class="yr">2020</span>
+                	</div>
+                </div>
+                <h3 class="heading mb-3"><a href="#">New Friends With Books</a></h3>
+                <p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4 d-flex ftco-animate">
+          	<div class="blog-entry justify-content-end">
+              <div class="text text-center">
+              	<a href="blog-single.html" class="block-20 img" style="background-image: url('<?php echo base_url(); ?>assets/img/image_2.jpg');">
+	              </a>
+	              <div class="meta text-center mb-2 d-flex align-items-center justify-content-center">
+                	<div>
+                		<span class="day">02</span>
+                		<span class="mos">May</span>
+                		<span class="yr">2020</span>
+                	</div>
+                </div>
+                <h3 class="heading mb-3"><a href="#">New Friends With Books</a></h3>
+                <p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4 d-flex ftco-animate">
+          	<div class="blog-entry justify-content-end">
+              <div class="text text-center">
+              	<a href="blog-single.html" class="block-20 img" style="background-image: url('<?php echo base_url(); ?>assets/img/image_3.jpg');">
+	              </a>
+	              <div class="meta text-center mb-2 d-flex align-items-center justify-content-center">
+                	<div>
+                		<span class="day">02</span>
+                		<span class="mos">May</span>
+                		<span class="yr">2020</span>
+                	</div>
+                </div>
+                <h3 class="heading mb-3"><a href="#">New Friends With Books</a></h3>
+								<p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>              
+							</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>	
+
+    <footer class="ftco-footer">
+      <div class="container">
+        <div class="row mb-5">
+          <div class="col-sm-12 col-md">
+            <div class="ftco-footer-widget mb-4">
+              <h2 class="ftco-heading-2 logo"><a href="#">Connect</a></h2>
+              <p>Far far away, behind the word mountains, far from the countries.</p>
+              <ul class="ftco-footer-social list-unstyled mt-2">
+                <li class="ftco-animate"><a href="#"><span class="fa fa-twitter"></span></a></li>
+                <li class="ftco-animate"><a href="#"><span class="fa fa-facebook"></span></a></li>
+                <li class="ftco-animate"><a href="#"><span class="fa fa-instagram"></span></a></li>
+              </ul>
+            </div>
+          </div>
+          <div class="col-sm-12 col-md">
+            <div class="ftco-footer-widget mb-4 ml-md-4">
+              <h2 class="ftco-heading-2">Extra Links</h2>
+              <ul class="list-unstyled">
+                <li><a href="#"><span class="fa fa-chevron-right mr-2"></span>Affiliate Program</a></li>
+                <li><a href="#"><span class="fa fa-chevron-right mr-2"></span>Business Services</a></li>
+                <li><a href="#"><span class="fa fa-chevron-right mr-2"></span>Education Services</a></li>
+                <li><a href="#"><span class="fa fa-chevron-right mr-2"></span>Gift Cards</a></li>
+              </ul>
+            </div>
+          </div>
+          <div class="col-sm-12 col-md">
+            <div class="ftco-footer-widget mb-4 ml-md-4">
+              <h2 class="ftco-heading-2">Legal</h2>
+              <ul class="list-unstyled">
+                <li><a href="#"><span class="fa fa-chevron-right mr-2"></span>Join us</a></li>
+                <li><a href="#"><span class="fa fa-chevron-right mr-2"></span>Blog</a></li>
+                <li><a href="#"><span class="fa fa-chevron-right mr-2"></span>Privacy &amp; Policy</a></li>
+                <li><a href="#"><span class="fa fa-chevron-right mr-2"></span>Term &amp; Conditions</a></li>
+              </ul>
+            </div>
+          </div>
+          <div class="col-sm-12 col-md">
+             <div class="ftco-footer-widget mb-4">
+              <h2 class="ftco-heading-2">Company</h2>
+              <ul class="list-unstyled">
+                <li><a href="#"><span class="fa fa-chevron-right mr-2"></span>About Us</a></li>
+                <li><a href="#"><span class="fa fa-chevron-right mr-2"></span>Blog</a></li>
+                <li><a href="#"><span class="fa fa-chevron-right mr-2"></span>Contact</a></li>
+                <li><a href="#"><span class="fa fa-chevron-right mr-2"></span>Careers</a></li>
+              </ul>
+            </div>
+          </div>
+          <div class="col-sm-12 col-md">
+            <div class="ftco-footer-widget mb-4">
+            	<h2 class="ftco-heading-2">Have a Questions?</h2>
+            	<div class="block-23 mb-3">
+	              <ul>
+	                <li><span class="icon fa fa-map marker"></span><span class="text">203 Fake St. Mountain View, San Francisco, California, USA</span></li>
+	                <li><a href="#"><span class="icon fa fa-phone"></span><span class="text">+2 392 3929 210</span></a></li>
+	                <li><a href="#"><span class="icon fa fa-paper-plane pr-4"></span><span class="text">info@yourdomain.com</span></a></li>
+	              </ul>
+	            </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="container-fluid px-0 py-5 bg-black">
+      	<div class="container">
+      		<div class="row">
+	          <div class="col-md-12">
+		
+	            <p class="mb-0" style="color: rgba(255,255,255,.5);"><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+	  Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart color-danger" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib.com</a>
+	  <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
+	          </div>
+	        </div>
+      	</div>
+      </div>
+    </footer>
+
+
+
+
+
+
+   <div class="panel panel-default">
+                <div class="panel-heading hidden-lg hidden-sm hidden-md">
+                    <h2 class="panel-title">
+                        <button class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#footer_category_accord">
+                            Categories 
+                        </button>
+                    </h2>
+                </div>
+                <div id="footer_category_accord" class="panel-collapse collapse">
+                    <div class="panel-body">
+                        <h3 class="hidden-xs">Categories</h3>
+                        <ul class="trend_cat_list">
+                                                    <li><a href="/post-graduate">PG Programs</a></li>
+                                                    <li><a href="/cloud-computing-certification-courses">Cloud Computing</a></li>
+                                                    <li><a href="/devops-certification-courses">DevOps</a></li>
+                                                    <li><a href="/bi-and-visualization-certification-courses">BI and Visualization</a></li>
+                                                    <li><a href="/big-data-and-analytics">Big Data</a></li>
+                                                    <li><a href="/data-science-certification-courses">Data Science</a></li>
+                                                    <li><a href="/project-management-and-methodologies-certification-courses">Project Management and Methodologies</a></li>
+                                                    <li><a href="/programming-and-frameworks-certification-courses">Programming & Frameworks</a></li>
+                                                    <li><a href="/software-testing-certification-courses">Software Testing</a></li>
+                                                    <li><a href="/frontend-development-certification-courses">Frontend Development</a></li>
+                                                    <li><a href="/robotic-process-automation-certification-courses">Robotic Process Automation</a></li>
+                                                    <li><a href="/data-warehousing-and-etl-certification-courses">Data Warehousing and ETL</a></li>
+                                                    <li><a href="/artificial-intelligence-certification-courses">Artificial Intelligence</a></li>
+                                                    <li><a href="/cyber-security-certification-courses">Cyber Security</a></li>
+                                                    <li><a href="/databases-certification-courses">Databases</a></li>
+                                                    <li><a href="/mobile-development-certification-courses">Mobile Development</a></li>
+                                                    <li><a href="/operating-systems-certification-courses">Operating Systems</a></li>
+                                                    <li><a href="/digital-marketing-certification-courses">Digital Marketing</a></li>
+                                                    <li><a href="/blockchain-certification-courses">Blockchain</a></li>
+                                                    <li><a href="/architecture-and-design-patterns-certification-courses">Architecture & Design Patterns</a></li>
+                                                </ul>
+                    </div>
+                </div>
+            </div>
+                    </div>
+        <div class="tncblock">
+            <span class="brain4ce">© 2020 Brain4ce Education Solutions Pvt. Ltd. All rights Reserved.</span>
+            <a href="/terms-and-conditions" class="trackButton" data-button-name="Terms &amp; Conditions" data-button-location="Final fold navigation" data-button-type="Static">Terms &amp; Conditions</a> <a href="/privacy-policy" class="trackButton" data-button-name="Privacy Policy" data-button-location="Final fold navigation" data-button-type="Static">Legal &amp; Privacy</a>
+            
+            <ul class="list-unstyled footer-social-icon">
+                <li class="ga-fb"><a href="https://www.facebook.com/edurekaIN" rel="noreferrer" aria-label="facebook" class="fb"><i class="icon-fa-facebook"></i></a></li>
+                <li class="ga-twitter"><a href="https://twitter.com/edurekaIN" rel="noreferrer" aria-label="twitter" class="tw"><i class="icon-fa-twitter"></i></a></li>
+                <li class="ga-linkedin"><a href="https://www.linkedin.com/company/edureka" rel="noreferrer" aria-label="linkedin" class="in"><i class="icon-fa-linkedin"></i></a></li>
+                <li class="ga-youtube"><a href="https://www.youtube.com/user/edurekaIN" rel="noreferrer" aria-label="youtube" class="ut"><i class="icon-fa-youtube"></i></a></li>
+            </ul>
+        </div>
+    </div>
+</section>
+
+
+
+
+
+
+<span>&nbsp;&nbsp;&nbsp;<input type="text" Placeholder="" style="" ></span> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<nav class="navbar navbar-expand-md navbar-dark bg-dark fixed-top">
+   <div class="container">
+
+<a class="navbar-brand" href="#"><img src="<?php echo base_url();?>assets/img/skillx.png" style="width: 50px; height: 50px;"></img><b>SKILLX</b></a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+  
+  
+  <ul class="navbar-nav ml-auto">
+      <li class="nav-item ">
+        <a class="nav-link" href="#" style="margin-right: 30px; color: #fff;"><img src="<?php echo base_url();?>assets/img/png-transparent-computer-icons-internet-web-browser-world-wide-web-text-logo-symmetry.png" style="width: 70px; height: 40px;"></img>SKILLX GIG</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#" style="margin-right: 30px; color: #fff;"><img src="<?php echo base_url();?>assets/img/learning-management-system-education-png-favpng-szC3q6ev7MztgMmjxMMkkXxpa.jpg" style="width: 40px; height: 40px;"></img>SKILLX LMS</a>
+      </li>
+	  <li class="nav-item">
+        <a class="nav-link" href="#" style="margin-right: 30px; color: #fff;"><img src="<?php echo base_url();?>assets/img/25-256927_magazine-clipart-book-magazine-vector-icon.png" style="width: 40px; height: 40px;"></img>SKILLX MAG</a>
+      </li>
+ 
+    </ul> 
+	<ul class="navbar-nav ml-auto">
+      <li class="nav-item active">
+        <a class="nav-link" href="#" style="color: #fff;">SHOP </a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#" style="color: #fff;">CREATE</a>
+      </li>
+	  <li class="nav-item">
+        <a class="nav-link" href="#" style="color: #fff;">SELL</a>
+      </li>
+	  <li class="nav-item">
+        <a class="nav-link" href="#" style="color: #fff;">JOIN</a>
+      </li>
+	  <li class="nav-item">
+        <a class="nav-link" href="#" style="color: #fff;">SIGN IN</a>
+      </li> 
+	  <li class="nav-item">
+        <a class="nav-link" href="#"><img src="<?php echo base_url();?>assets/img/IconShoppingCart.png" style="width: 30px; height: 30px;"></img></a>
+      </li>
+ 
+    </ul>
+   
+  </div>   
+   
+   </div>
+</nav>
+
+
+
+
+
+
+
+
+.navbar {
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: .9rem;
+  letter-spacing: .1rem;
+  background: rgb(191, 191, 191, 0.6)!important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+
+
+nav{
+	width: 100%;
+	height: 80px;
+	background-color: #0002;
+	line-height: 80px;
+	
+}
+nav ul{
+	float: right;
+	margin-right: 30px;
+	
+	}
+nav ul li{
+	list-style-type: none;
+	display: inline-block;
+}
+nav ul li a{
+ text-decoration: none;
+ color: #fff;
+ padding: 30px;
+  
+}
+</style>
+</head>
+<body>
+
+<nav>
+<img src="<?php echo base_url();?>assets/img/skillx.png" style="width: 50px; height: 50px;"></img>
+<ul>
+<li><a href="#">SKILLX GIG</a></li>
+<li><a href="#">SKILLX LMS</a></li>
+<li><a href="#">SKILLX MAG</a></li>
+<li><a href="#">SHOP</a></li>
+<li><a href="#">CREATE</a></li>
+<li><a href="#">SELL</a></li>
+<li><a href="#">JOIN</a></li>
+<li><a href="#">SIGN IN</a></li>
+</ul>
+</nav>
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<header class="masthead">
+            <div class="container">
+                <div class="masthead-subheading">Welcome To Our Studio!</div>
+                <div class="masthead-heading text-uppercase">It's Nice To Meet You</div>
+                <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#services">Tell Me More</a>
+            </div>
+        </header>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		<nav class="navbar navbar-expand-md navbar-light fixed-top">
+   <div class="container">
+
+<a class="navbar-brand" href="#" style="color: white;"><img src="<?php echo base_url();?>assets/img/skillx.png" style="width: 50px; height: 50px;"></img><b>SKILLX</b></a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+  
+  
+  <ul class="navbar-nav ml-auto">
+      <li class="nav-item ">
+        <a class="nav-link" href="#" style="margin-right: 30px; color: #fff;"><img src="<?php echo base_url();?>assets/img/png-transparent-computer-icons-internet-web-browser-world-wide-web-text-logo-symmetry.png" style="width: 70px; height: 40px;"></img>SKILLX GIG</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#" style="margin-right: 30px; color: #fff;"><img src="<?php echo base_url();?>assets/img/learning-management-system-education-png-favpng-szC3q6ev7MztgMmjxMMkkXxpa.jpg" style="width: 40px; height: 40px;"></img>SKILLX LMS</a>
+      </li>
+	  <li class="nav-item">
+        <a class="nav-link" href="#" style="margin-right: 30px; color: #fff;"><img src="<?php echo base_url();?>assets/img/25-256927_magazine-clipart-book-magazine-vector-icon.png" style="width: 40px; height: 40px;"></img>SKILLX MAG</a>
+      </li>
+ 
+    </ul> 
+	<ul class="navbar-nav ml-auto">
+      <li class="nav-item active">
+        <a class="nav-link" href="#" style="color: #fff;">SHOP </a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#" style="color: #fff;">CREATE</a>
+      </li>
+	  <li class="nav-item">
+        <a class="nav-link" href="#" style="color: #fff;">SELL</a>
+      </li>
+	  <li class="nav-item">
+        <a class="nav-link" href="#" style="color: #fff;">JOIN</a>
+      </li>
+	  <li class="nav-item">
+        <a class="nav-link" href="#" style="color: #fff;">SIGN IN</a>
+      </li> 
+	  <li class="nav-item">
+        <a class="nav-link" href="#"><img src="<?php echo base_url();?>assets/img/IconShoppingCart.png" style="width: 30px; height: 30px;"></img></a>
+      </li>
+ 
+    </ul>
+   
+  </div>   
+   
+   </div>
+</nav>
+
+
+<ul class="navbar-nav text-uppercase ml-auto">
+                        <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#services">SKILLX GIG</a></li>
+                        <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#portfolio">SKILLX LMS</a></li>
+                        <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#about">SKILLX MAG</a></li>
+                        
+                    </ul>
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+		<section class="ftco-section ftco-no-pt">
+    	<div class="container-fluid px-md-4">
+    		<div class="row justify-content-center pb-5 mb-3">
+          <div class="col-md-7 heading-section text-center ftco-animate">
+            <h2>Trending Courses</h2>
+          </div>
+        </div>
+           <div class="container">
+    		<div class="row">
+             <div class="col-md-3 col-sm-6"> 
+			 <div class="card text-center" >
+  
+  <div class="card-block">
+  <img class="img-fluid" src="<?php echo base_url(); ?>assets/img/bb-megalaunch-blog1-hero@2x-1.png" alt="Card image cap">
+    <h5 class="card-title" style="font-family: 'Roboto', sans-serif; font-weight: bold; padding-top: 10px;">Devops Certification</h5>
+    <p class="card-text" style="font-family: 'Lora', serif;">Learn Devops from the best in industry.</p>
+    <a href="#" ><button type="button" style="background-color: #4169E1; color: white; border-color: white; ">ENROLL NOW</button></a>
+  </div>
+</div>
+
+			 </div>
+			      <div class="col-md-3 col-sm-6"> 
+			 <div class="card text-center" >
+  
+  <div class="card-block">
+  <img class="img-fluid" src="<?php echo base_url(); ?>assets/img/aws.jpg" alt="Card image cap">
+    <h5 class="card-title" style="font-family: 'Roboto', sans-serif; font-weight: bold; padding-top: 10px;">AWS Certification</h5>
+    <p class="card-text" style="font-family: 'Lora', serif;"  >Add Skills to your resume with this certification.</p>
+    <a href="#" ><button type="button" style="background-color: #4169E1; color: white; border-color: white; ">ENROLL NOW</button></a>
+  </div>
+</div>
+
+			 </div>
+			      <div class="col-md-3 col-sm-6"> 
+			 <div class="card text-center" >
+  
+  <div class="card-block">
+  <img class="img-fluid" src="<?php echo base_url(); ?>assets/img/How-to-Learn-Python.jpg" alt="Card image cap">
+    <h5 class="card-title" style="font-family: 'Roboto', sans-serif; font-weight: bold; padding-top: 10px;">Python Crashcourse</h5>
+    <p class="card-text" style="font-family: 'Lora', serif;">Master python efficiently with this course.</p>
+    <a href="#" ><button type="button" style="background-color: #4169E1; color: white; border-color: white; ">ENROLL NOW</button></a>
+  </div>
+</div>
+
+			 </div>
+			      <div class="col-md-3 col-sm-6"> 
+			 <div class="card text-center" >
+  
+  <div class="card-block">
+  <img class="img-fluid" src="<?php echo base_url(); ?>assets/img/JavaLanguag1.jpg" alt="Card image cap">
+    <h5 class="card-title" style="font-family: 'Roboto', sans-serif; font-weight: bold; padding-top: 10px;">Java For Beginners</h5>
+    <p class="card-text" style="font-family: 'Lora', serif;">Dive into the Java Ocean with this course.</p>
+    <a href="#" ><button type="button" style="background-color: #4169E1; color: white; border-color: white; ">ENROLL NOW</button></a>
+  </div>
+</div>
+
+			 </div>
+			  </div>
+    		</div>
+			
+			          <div class="container" style="margin-top: 40px;">
+    		<div class="row">
+             <div class="col-md-3 col-sm-6"> 
+			 <div class="card text-center" >
+  
+  <div class="card-block">
+  <img class="img-fluid" src="<?php echo base_url(); ?>assets/img/hadoop.jpg" alt="Card image cap">
+    <h5 class="card-title" style="font-family: 'Roboto', sans-serif; font-weight: bold; padding-top: 10px;">Hadoop Certification</h5>
+    <p class="card-text" style="font-family: 'Lora', serif;">Get hands-on skills on Hadoop from the best.</p>
+    <a href="#" ><button type="button" style="background-color: #4169E1; color: white; border-color: white; ">ENROLL NOW</button></a>
+  </div>
+</div>
+
+			 </div>
+			      <div class="col-md-3 col-sm-6"> 
+			 <div class="card text-center" >
+  
+  <div class="card-block">
+  <img class="img-fluid" src="<?php echo base_url(); ?>assets/img/salesforce.png" alt="Card image cap">
+    <h5 class="card-title" style="font-family: 'Roboto', sans-serif; font-weight: bold; padding-top: 10px;">Salesforce Certification</h5>
+    <p class="card-text" style="font-family: 'Lora', serif;"  >Become an industry-ready salesforce developer.</p>
+    <a href="#" ><button type="button" style="background-color: #4169E1; color: white; border-color: white; ">ENROLL NOW</button></a>
+  </div>
+</div>
+
+			 </div>
+			      <div class="col-md-3 col-sm-6"> 
+			 <div class="card text-center" >
+  
+  <div class="card-block">
+  <img class="img-fluid" src="<?php echo base_url(); ?>assets/img/1_k0SazfSJ-tPSBbt2WDYIyw.png" alt="Card image cap">
+    <h5 class="card-title" style="font-family: 'Roboto', sans-serif; font-weight: bold; padding-top: 10px;">MERN Crashcourse</h5>
+    <p class="card-text" style="font-family: 'Lora', serif;">Become a MERN fullstack developer at ease.</p>
+    <a href="#" ><button type="button" style="background-color: #4169E1; color: white; border-color: white; ">ENROLL NOW</button></a>
+  </div>
+</div>
+
+			 </div>
+			      <div class="col-md-3 col-sm-6"> 
+			 <div class="card text-center" >
+  
+  <div class="card-block">
+  <img class="img-fluid" src="<?php echo base_url(); ?>assets/img/IoT-devices.jpg" alt="Card image cap">
+    <h5 class="card-title" style="font-family: 'Roboto', sans-serif; font-weight: bold; padding-top: 10px;">IOT For Begineers</h5>
+    <p class="card-text" style="font-family: 'Lora', serif;">Master IOT like a pro after this course.</p>
+    <a href="#" ><button type="button" style="background-color: #4169E1; color: white; border-color: white; ">ENROLL NOW</button></a>
+  </div>
+</div>
+
+			 </div>
+			  </div>
+    		</div>
+			<div class="text-center" style="margin-top: 40px;">
+    <a href="#" ><button type="button" style="background-color: #4169E1; color: white; border-color: white;">Browse All Courses</button></a>
+			<h5 style="text-align: center;"><i>Explore our wide range of courses</i></h5>
+			</div>
+       
+    	</div>
+    </section>					
